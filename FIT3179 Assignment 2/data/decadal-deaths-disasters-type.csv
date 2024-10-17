@@ -1,4 +1,4 @@
-Entity,Code,Year,Deaths-Drought (decadal),Deaths-Flood (decadal),Deaths-Earthquake (decadal),Deaths-Extreme weather (decadal),Deaths-Extreme temperature (decadal),Deaths-Volcanic activity (decadal),Deaths-Wildfire (decadal),Deaths-Glacial lake outburst flood (decadal),Deaths-Dry mass movement (decadal),Deaths -Wet mass movement (decadal),Deaths-Fog (decadal)
+Entity,Code,Year,Deaths-Drought,Deaths-Flood,Deaths-Earthquake,Deaths-Extreme weather,Deaths-Extreme temperature,Deaths-Volcanic activity,Deaths-Wildfire,Deaths-Glacial lake outburst flood,Deaths-Dry mass movement,Deaths -Wet mass movement,Deaths-Fog
 Afghanistan,AFG,1900,0,0,0,0,0,0,0,0,0,0,0
 Afghanistan,AFG,1910,0,0,0,0,0,0,0,0,0,0,0
 Afghanistan,AFG,1920,0,0,0,0,0,0,0,0,0,0,0
